@@ -57,7 +57,7 @@ Each project is built with **Flutter**, supports **50+ languages** (unless speci
 | 46 | **Coin Toss** | A customizable coin toss simulator with adjustable probability ratios. | [Link](https://github.com/aosystem/twosidesofcoin--custom-ratio-coin-toss) |
 | 47 | **Water Timer** | A soothing, visual water-filling timer with elegant gradients. | [Link](https://github.com/aosystem/watertimer--visual-hourglass-countdown) |
 | 48 | **Watt Conversion** | A high-precision microwave wattage conversion tool for cooking. | [Link](https://github.com/aosystem/wattconversion--microwave-wattage-timer-calc) |
-| 49 | **Wheel Lottery** | A digital reproduction of the classic Japanese "Fukubiki" machine. | [Link](https://github.com/aosystem/wheellotterymachine--fukubiki-digital-spinner) |
+| 49 | **Wheel Lottery** | A digital reproduction of the classic Japanese "Fukubiki" machine.<br>[![Watch the video](https://img.youtube.com/vi/aYuQ7RqOSN4/0.jpg)](https://www.youtube.com/watch?v=aYuQ7RqOSN4) | [Link](https://github.com/aosystem/wheellotterymachine--fukubiki-digital-spinner) |
 
 ---
 

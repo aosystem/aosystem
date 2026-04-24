@@ -72,4 +72,84 @@ Each project is built with **Flutter**, supports **50+ languages** (unless speci
 - **Store:** [Google Play](https://play.google.com/store/apps/dev?id=7266451443285436081) / [App Store](https://apps.apple.com/developer/akira-ohmachi/id1338624340)
 
 ---
+
+A Record of My Long-Term Journey and Experience in Releasing 50+ Smartphone Apps
+
+1. The Beginning: Developing Apps as My Own "Weapon"
+It all started with a simple goal: I wanted to learn how to build smartphone apps, which were becoming mainstream, to expand my professional range. I was convinced that being able to handle apps, not just web development, would be a vital survival strategy for an engineer in the coming era.
+I started with something simple. Since coming up with a unique idea from scratch is difficult, I chose a "Roulette app" because its structure seemed straightforward. However, this was an era before LLMs (Generative AI) existed. To learn how to build for Android and iOS, I had to buy three technical books for each platform and progress one step at a time. It was a time when a single typo could lead to hours of stagnation.
+
+2. Technical Barriers of the "Dark Ages": Days at the Mercy of Java and UIKit
+Looking back, the development environment at that time was incredibly harsh. It was the era of Java for Android, which required redundant boilerplate code. For iOS, SwiftUI was nowhere to be found; it was the age of Swift and UIKit.
+The development efficiency of UIKit, in particular, was extremely low by modern standards. Building a single screen required a massive amount of code and complex AutoLayout constraints. A minor specification change could cause the layout to collapse, forcing me to rebuild from scratch many times. The "switching cost" of having to coexist two entirely different philosophies and languages in my head was the greatest enemy of a solo developer. It goes without saying that when SwiftUI and Kotlin finally arrived, it felt like a light shining in the darkness.
+
+3. Three Days for One Solution: "Search Skills" Forged by Lonely Debugging
+Again, there was no AI at this time. When faced with something I didn't understand, I had to rely solely on my own "search skills." If there was no useful information on Japanese sites, I searched English sites, and if that failed, I even searched Chinese sites—every language possible.
+It wasn't uncommon to be glued to my computer for three days just to solve a single problem. When I couldn't find an answer, I would pause the work, simulate different approaches in my mind, and finally resume a week later. There were days when I was overwhelmed by my own perceived incompetence, realizing just how much time it took to implement even a single function.
+
+4. The Wall of App Review and "Praying for Motivation"
+Even after finally finishing an app, the real trial lay in the "submission process." The App Store management screen was a series of incomprehensible technical terms, and the amount of image assets and descriptions required was staggering.
+I had decided from the start to release my apps for free. However, as a way to maintain motivation during the lonely development process, I decided to apply for AdMob. I believed that even if the revenue was only 1 yen, the "proof" of being connected to someone on the other side of the screen would be the emotional support I needed to keep writing code the next day. While many roulette apps already existed, I focused on turning the fact that I had "completed one app" into unshakable self-confidence.
+
+5. The "Five-App Wall" Leading to Work and Giving Back via Open Source
+I felt I couldn't presumptuously say "I can build apps" just because I had made one. I believed I needed at least five achievements to pitch myself professionally, so I continued with a second and third app.
+What supported me through these struggles were the predecessors who left their wisdom on the internet. As a way of giving back, I decided to release all the source code I created on my own website. It was out of the hope that "this will surely be useful to someone."
+Soon after, I received an inquiry: "Can you build an app?" Being able to answer with confidence, "Yes, I can. I have five apps as a track record," led to my first professional contract.
+
+6. Persistence in Localization: The Wall of "10 Languages" Tackled Manually
+With the desire to spread my apps to the world, I began localization. However, at that time, there was no AI and no budget to hire professionals. So, I developed my own "automatic translation tool" in PHP that called the Google Translate API.
+To prevent mistranslations, I implemented a "back-translation" check—translating to English first and then to other languages—and manually adjusted the character balance after translation (rephrasing). This accumulation of tedious work became the engine for later deploying 50 apps globally. However, due to limits in translation accuracy and manual labor at the time, supporting even 10 languages required an exhausting amount of effort.
+
+7. Transition to Flutter: The Optimal Solution for Solo Developers
+After building about 20 apps, I pivoted to Flutter. While it took courage to set aside my knowledge of native languages (Swift/Kotlin), Dart was surprisingly easy to pick up for someone with experience in C, PHP, and JavaScript, and it allowed for intuitive UI construction.
+Through my pursuit of code that is easy to maintain over the long term, I became convinced that Flutter is the optimal solution for solo developers.
+
+8. The Reality of Global Deployment: Unknown in Japan, Hits Overseas
+When you release 50 apps, interesting phenomena occur. Apps that aren't downloaded at all in Japan might explode in popularity in certain Southeast Asian countries or Brazil.
+By throwing your work out into the world with multi-language support, you hit the needs of unexpected countries. This is the true pleasure of app development—being able to communicate with the world as an individual.
+
+9. Depletion of Ideas and 10 "Scrapped" Apps
+Once you exceed 30 apps, ideas start to run dry. In fact, in addition to the 50 currently public apps, there are about 10 apps that I released but ultimately "scrapped."
+Some were rejected by Apple's review for "insufficient functionality." These are the "scars of battle" from struggling and agonizing over ideas. I will not update these in the future, but they are proof of the vital "growing pains" necessary to complete the current 50.
+
+10. Meeting AI (LLM): The Dramatic Evolution from 10 to "50 Languages"
+And now, with the advent of LLMs (AI), my localization strategy has undergone a dramatic evolution.
+Initially, when I completed support for 10 languages, I felt the limits of maintaining them and ensuring accuracy. However, by welcoming advanced LLMs as translation partners, I succeeded in an update that expanded the supported languages to 50 all at once while ensuring quality.
+Technical research that used to take three days is now shortened to five minutes, and translation work that took a whole day is finished instantly. Gaining this overwhelming speed has allowed me to pour all my energy into "giving shape to ideas" and "delivering them to the world."
+However, I do not simply paste code or text output by AI. AI is an excellent "assistant," but never a "director." I write only code that I 100% understand and can responsibly maintain years from now. I believe this is the professional pride an engineer must uphold in the AI era: "Ensuring my intent reaches every last line of code."
+
+11. Five Lessons from Developing 50 Apps
+Through the release of these 50 apps, I have confirmed a few things:
+
+- Persistence Surpasses Talent: You can compete on ideas for the first 20, but from there on, it's the sheer persistence to "keep building" that takes shape.
+
+- Localization is a Strategy to Increase Chances: Even if you are ignored by 100 people in Japan, if you support 50 languages, there is a chance you will resonate with "10,000 people you haven't met yet" on the other side of the planet. By expanding to 50 languages with the help of AI, the market literally opened up to the world.
+
+- "Scrapped" Apps are Not Wasted: The 10 scrapped apps were necessary investments (trial and error) to produce successful ones.
+
+- Code is a Letter to Your "Future Self": Code you don't understand becomes a breeding ground for bugs that will plague you a year later.
+
+- "Release" is Better Than Perfection: Only after overcoming the fear of rejection and getting your app into the store does the dialogue with users truly begin.
+
+12. The View After Building 50 Apps: To the Engineers of the Future
+The number 50 is not just a record. It is the accumulation of every error I couldn't solve, every translation struggle, and the tension of the moment I pressed the release button.
+If you are struggling with your first app right now, you are on the "right path." Without that first one, my current 50 would not exist. Your "first step" is a vital piece that builds your future self.
+I intend to keep writing code that is useful to someone and delivering it to devices all over the world.
+
+Project Details:
+
+- YouTube Channel (App Demos): https://www.youtube.com/@TryThisAppNow
+
+- GitHub (Source Code): https://github.com/aosystem
+
+I hope this serves as a helpful reference for your development or app search.
+
+Note on the scope of these apps:
+Please note that these are all "mini-apps" focused on specific, simple functions for my own learning. While they are not large-scale systems, each small step has been a vital part of building my foundation.
+
+Note on currency:
+For context, 1 yen is approximately 0.62 cents (USD). In my journey, it represents the value of reaching even a single user.
+
+---
+
 © 2026 **Akira Ohmachi / ao-system, Inc.** - Focused on making small tools that solve big problems.

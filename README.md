@@ -73,7 +73,7 @@ Each project is built with **Flutter**, supports **50+ languages** (unless speci
 
 ---
 
-A Record of My Long-Term Journey and Experience in Releasing 50+ Smartphone Apps
+A Record of Developing and Releasing 50 Smartphone Apps (2026-04)
 
 1. The Beginning: Developing Apps as My Own "Weapon"
 It all started with a simple goal: I wanted to learn how to build smartphone apps, which were becoming mainstream, to expand my professional range. I was convinced that being able to handle apps, not just web development, would be a vital survival strategy for an engineer in the coming era.
@@ -145,7 +145,7 @@ Project Details:
 I hope this serves as a helpful reference for your development or app search.
 
 Note on the scope of these apps:
-Please note that these are all "mini-apps" focused on specific, simple functions for my own learning. While they are not large-scale systems, each small step has been a vital part of building my foundation.
+All of the apps I have released are "mini-apps" focused on specific, simple functions, developed primarily for my own learning and skill-building. They are by no means complex or large-scale systems.
 
 Note on currency:
 For context, 1 yen is approximately 0.62 cents (USD). In my journey, it represents the value of reaching even a single user.

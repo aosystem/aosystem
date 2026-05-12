@@ -7,6 +7,18 @@ I am a Flutter Developer from Japan. I have successfully released **50+ high-qua
 ## 📱 Complete App Portfolio (50 Selected Projects)
 Each project is built with **Flutter**, supports **50+ languages** (unless specified), and is optimized for both **iOS & Android**.
 
+---
+
+To all users who have been viewing the Flutter application source code on GitHub,
+I would like to express my sincere apologies for this sudden change.
+
+The code previously published on GitHub was intended solely to provide access to the main portions of the source for educational purposes. However, as the number of applications increased, maintaining both GitHub and our website concurrently became increasingly difficult. We recognized that this dual maintenance could lead to delayed updates and fragmented information, which might cause inconvenience to those who rely on the materials.
+
+Therefore, with sincere regret, we have decided to consolidate our operations and designate our website as the sole platform for publishing the source code going forward. Managing the content exclusively on our website allows us to organize explanations and supplementary information more effectively and present the code in a clearer and more accessible manner.
+
+Although the GitHub repositories will be gradually removed, the source code itself will continue to be available on our website. We would be grateful if you would continue to make use of it for learning purposes as before.
+---
+
 | # | App Name | Description | External Page |
 |:---:|:---|:---|:---:|
 | 1 | **Barcode Reader** | High-speed Continuous QR/Barcode Scanner for inventory and events. Export results to CSV. <br>[![Watch the video](https://img.youtube.com/vi/bL8KfBnRqpU/mqdefault.jpg)](https://www.youtube.com/watch?v=bL8KfBnRqpU) | [Link](https://ao-system.net/flutterapp/code/barcodereader/) |

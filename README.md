@@ -17,6 +17,7 @@ The code previously published on GitHub was intended solely to provide access to
 Therefore, with sincere regret, we have decided to consolidate our operations and designate our website as the sole platform for publishing the source code going forward. Managing the content exclusively on our website allows us to organize explanations and supplementary information more effectively and present the code in a clearer and more accessible manner.
 
 Although the GitHub repositories will be gradually removed, the source code itself will continue to be available on our website. We would be grateful if you would continue to make use of it for learning purposes as before.
+
 ---
 
 | # | App Name | Description | External Page |

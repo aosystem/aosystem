@@ -7,9 +7,9 @@ I am a Flutter Developer from Japan. I have successfully released **50+ high-qua
 ## 📱 Complete App Portfolio (50 Selected Projects)
 Each project is built with **Flutter**, supports **50+ languages** (unless specified), and is optimized for both **iOS & Android**.
 
-| # | App Name | Description | Repository |
+| # | App Name | Description | External Page |
 |:---:|:---|:---|:---:|
-| 1 | **Barcode Reader** | High-speed Continuous QR/Barcode Scanner for inventory and events. Export results to CSV. <br>[![Watch the video](https://img.youtube.com/vi/bL8KfBnRqpU/mqdefault.jpg)](https://www.youtube.com/watch?v=bL8KfBnRqpU) | [Link](https://github.com/aosystem/barcodereader--Continuous-QR-barcode-scanner) |
+| 1 | **Barcode Reader** | High-speed Continuous QR/Barcode Scanner for inventory and events. Export results to CSV. <br>[![Watch the video](https://img.youtube.com/vi/bL8KfBnRqpU/mqdefault.jpg)](https://www.youtube.com/watch?v=bL8KfBnRqpU) | [Link](https://github.com/aosystem/barcodereader) |
 | 2 | **BMR Calculator** | A high-precision BMR calculator built with Flutter. Core logic and source code. <br>[![Watch the video](https://img.youtube.com/vi/brobVdjZq98/mqdefault.jpg)](https://www.youtube.com/watch?v=brobVdjZq98) | [Link](https://github.com/aosystem/basalmetabolism--basal-metabolic-rate-calculator-bmr) |
 | 3 | **Bingo Game 75** | A simple and reliable Bingo Game Machine built with 6 cards. <br>[![Watch the video](https://img.youtube.com/vi/-VlqVhRmWyQ/mqdefault.jpg)](https://www.youtube.com/watch?v=-VlqVhRmWyQ) | [Link](https://github.com/aosystem/bingogame--bingo-game-75-with-6-cards) |
 | 4 | **Bingo Game Housie 90** | Professional 90-ball Bingo (Housie) caller machine with 6 cards. <br>[![Watch the video](https://img.youtube.com/vi/GhbgpTljOiM/mqdefault.jpg)](https://www.youtube.com/watch?v=GhbgpTljOiM) | [Link](https://github.com/aosystem/bingogamehousie--bingo-housie-90-ball-game-with-6-cards) |

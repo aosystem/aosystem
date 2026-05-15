@@ -9,6 +9,7 @@ Each project is built with **Flutter**, supports **50+ languages** (unless speci
 
 ---
 
+(May 2026)<br>
 To all users who have been viewing the Flutter application source code on GitHub,
 I would like to express my sincere apologies for this sudden change.
 
@@ -16,8 +17,7 @@ The code previously published on GitHub was intended solely to provide access to
 
 Therefore, with sincere regret, we have decided to consolidate our operations and designate our website as the sole platform for publishing the source code going forward. Managing the content exclusively on our website allows us to organize explanations and supplementary information more effectively and present the code in a clearer and more accessible manner.
 
-Although the GitHub repositories will be gradually removed, the source code itself will continue to be available on our website. We would be grateful if you would continue to make use of it for learning purposes as before.<br>
-(May 2026)
+Although the GitHub repositories will be gradually removed, the source code itself will continue to be available on our website. We would be grateful if you would continue to make use of it for learning purposes as before.
 
 ---
 
@@ -87,7 +87,7 @@ Although the GitHub repositories will be gradually removed, the source code itse
 
 ---
 
-A Record of Developing and Releasing 50 Smartphone Apps (2026-04)
+A Record of Developing and Releasing 50 Smartphone Apps (April 2026)
 
 1. The Beginning: Developing Apps as My Own "Weapon"
 It all started with a simple goal: I wanted to learn how to build smartphone apps, which were becoming mainstream, to expand my professional range. I was convinced that being able to handle apps, not just web development, would be a vital survival strategy for an engineer in the coming era.
@@ -163,7 +163,6 @@ All of the apps I have released are "mini-apps" focused on specific, simple func
 
 Note on currency:
 For context, 1 yen is approximately 0.62 cents (USD). In my journey, it represents the value of reaching even a single user.<br>
-(April 2026)
 
 ---
 

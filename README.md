@@ -87,7 +87,8 @@ Although the GitHub repositories will be gradually removed, the source code itse
 
 ---
 
-A Record of Developing and Releasing 50 Smartphone Apps (April 2026)
+(April 2026)<br>
+A Record of Developing and Releasing 50 Smartphone Apps
 
 1. The Beginning: Developing Apps as My Own "Weapon"
 It all started with a simple goal: I wanted to learn how to build smartphone apps, which were becoming mainstream, to expand my professional range. I was convinced that being able to handle apps, not just web development, would be a vital survival strategy for an engineer in the coming era.

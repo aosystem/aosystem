@@ -17,8 +17,7 @@ The code previously published on GitHub was intended solely to provide access to
 Therefore, with sincere regret, we have decided to consolidate our operations and designate our website as the sole platform for publishing the source code going forward. Managing the content exclusively on our website allows us to organize explanations and supplementary information more effectively and present the code in a clearer and more accessible manner.
 
 Although the GitHub repositories will be gradually removed, the source code itself will continue to be available on our website. We would be grateful if you would continue to make use of it for learning purposes as before.
-
-[May 2026]
+(May 2026)
 
 ---
 
@@ -164,7 +163,7 @@ All of the apps I have released are "mini-apps" focused on specific, simple func
 
 Note on currency:
 For context, 1 yen is approximately 0.62 cents (USD). In my journey, it represents the value of reaching even a single user.
-[April 2026]
+(April 2026)
 
 ---
 

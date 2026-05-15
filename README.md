@@ -19,6 +19,7 @@ Therefore, with sincere regret, we have decided to consolidate our operations an
 Although the GitHub repositories will be gradually removed, the source code itself will continue to be available on our website. We would be grateful if you would continue to make use of it for learning purposes as before.
 
 [May 2026]
+
 ---
 
 | # | App Name | Description | External Page |

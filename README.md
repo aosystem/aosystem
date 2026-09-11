@@ -74,6 +74,7 @@ Although the GitHub repositories will be gradually removed, the source code itse
 | 49 | **Water Timer** | A soothing, visual water-filling timer with elegant gradients. <br>[![Watch the video](https://img.youtube.com/vi/qH1Re_-3L9M/mqdefault.jpg)](https://www.youtube.com/watch?v=qH1Re_-3L9M) | [Link](https://ao-system.net/flutterapp/code/watertimer/) |
 | 50 | **Watt Conversion** | A high-precision microwave wattage conversion tool for cooking. <br>[![Watch the video](https://img.youtube.com/vi/v7T15gBknPM/mqdefault.jpg)](https://www.youtube.com/watch?v=v7T15gBknPM) | [Link](https://ao-system.net/flutterapp/code/wattconversion/) |
 | 51 | **Wheel Lottery** | A digital reproduction of the classic Japanese "Fukubiki" machine. <br>[![Watch the video](https://img.youtube.com/vi/aYuQ7RqOSN4/mqdefault.jpg)](https://www.youtube.com/watch?v=aYuQ7RqOSN4) | [Link](https://ao-system.net/flutterapp/code/wheellotterymachine/) |
+| 52 | **Which is the Better Deal?** | Compare unit prices instantly and find the best deal while shopping. <br><img src="https://ao-system.net/flutterapp/image/whichisbettervalue_main.webp" width="320"> | [Link](https://ao-system.net/flutterapp/code/whichisbettervalue/) |
 
 ---
 
